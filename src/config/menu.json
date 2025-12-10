@@ -1,28 +1,28 @@
 {
   "main": [
     {
-      "name": "Home",
+      "name": "首页",
       "url": "/"
     },
     {
-      "name": "About",
+      "name": "关于",
       "url": "/about"
     },
     {
-      "name": "Contact",
+      "name": "联系",
       "url": "/contact"
     },
     {
-      "name": "Pages",
+      "name": "页面",
       "url": "",
       "hasChildren": true,
       "children": [
         {
-          "name": "Authors",
+          "name": "作者",
           "url": "/authors"
         },
         {
-          "name": "Categories",
+          "name": "标签",
           "url": "/categories"
         },
         {
