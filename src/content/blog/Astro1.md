@@ -1,12 +1,11 @@
 ---
-title: "How to make toys from old Olarpaper"
-meta_title: ""
-description: "meta description"
-date: 2025-04-07T05:00:00Z
-image: "/images/posts/01.jpg"
-categories: ["art"]
-authors: ["Mark Dinn"]
-tags: ["diy", "toy"]
+title: "Astro 特色测速"
+date: "2025-12-10"
+author: "你的姓名"
+description: "Astro 框架的快速入门教程。"
+image: "/images/astro-intro.jpg"
+tags: [astro, web-dev, tutorial]
+categories: [beginner]
 draft: false
 ---
 

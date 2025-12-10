@@ -1,9 +1,9 @@
 ---
-title: "How to make toys from old Olarpaper"
+title: "第二篇文章"
 meta_title: ""
 description: "meta description"
 date: 2025-04-07T05:00:00Z
-image: "/images/posts/01.jpg"
+image: "/images/posts/04.jpg"
 categories: ["art"]
 authors: ["Mark Dinn"]
 tags: ["diy", "toy"]
