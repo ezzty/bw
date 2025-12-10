@@ -5,7 +5,7 @@ description: "meta description"
 date: 2025-12-07T05:00:00Z
 image: "/images/posts/03.jpg"
 categories: ["art"]
-authors: ["Mark Dinn"]
+authors: ["jin"]
 tags: ["diy", "toy"]
 draft: false
 ---

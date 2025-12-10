@@ -5,7 +5,7 @@ description: "meta description"
 date: 2025-04-05T16:56:47+06:00
 image: "/images/posts/05.jpg"
 draft: false
-authors: ["John Doe"]
+authors: ["jin"]
 tags: ["Food", "Gold"]
 categories: ["Food"]
 ---
